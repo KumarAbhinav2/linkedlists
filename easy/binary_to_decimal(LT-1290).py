@@ -22,7 +22,7 @@ class ListNode:
 
 
 class Solution:
-    
+
     def getDecimalValue(self, head: ListNode) -> int:
         temp = []
         while head is not None:
