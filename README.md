@@ -7,3 +7,5 @@ Repository is dedicated to host interesting linkedlist problems mostly from popu
 2. [Adds two numbers represented as linked lists](https://github.com/KumarAbhinav2/linkedlists/blob/master/add_two_numbers(LTM-2).py)
 
 3. [LRU Cache implementation](https://github.com/KumarAbhinav2/linkedlists/blob/master/LRU_Cache(LTM-146).py) 
+
+4. [Reversing a singly Linked List](https://github.com/KumarAbhinav2/linkedlists/blob/master/reverse_a_ll(LTE-206).py) 
